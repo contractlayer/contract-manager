@@ -1,0 +1,7 @@
+# Downloaded contracts and audit trails
+*-current.pdf
+*-signed.pdf
+*-original.pdf
+*-audit-trail.json
+.env
+__pycache__/
